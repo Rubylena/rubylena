@@ -1,4 +1,5 @@
 ### Hi there 👋
+### 🤔 love every oppurtunity to learn.
 
 <!--
 **Rubylena/rubylena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

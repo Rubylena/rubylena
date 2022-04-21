@@ -2,7 +2,14 @@
 ### 🤔 love every oppurtunity to learn.
 
 
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rubylena-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](
+https://www.linkedin.com/in/grace-effiong/) [![Mail Badge](https://img.shields.io/badge/-rubylena-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:graceffiong@gmail.com)
 
+- 👯 I’m looking to collaborate on: ![HTML5](https://img.shields.io/badge/-HTML5-09203F?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-09203F?style=flat&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-09203F?style=flat&logo=javascript)
+![MYSQL](https://img.shields.io/badge/-MYSQL-09203F?style=flat&logo=MySQL)
+![React](https://img.shields.io/badge/-React-09203F?style=flat&logo=React)
 <!--
 **Rubylena/rubylena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

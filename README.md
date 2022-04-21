@@ -10,6 +10,7 @@ https://www.linkedin.com/in/grace-effiong/) [![Mail Badge](https://img.shields.i
 ![JavaScript](https://img.shields.io/badge/-JavaScript-09203F?style=flat&logo=javascript)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-09203F?style=flat&logo=MySQL)
 ![React](https://img.shields.io/badge/-React-09203F?style=flat&logo=React)
+![C](https://img.shields.io/badge/-C-09203F?style=flat&logo=C)
 <!--
 **Rubylena/rubylena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,8 +2,8 @@
 ### 🤔 love every oppurtunity to learn.
 
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rubylena-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](
-https://www.linkedin.com/in/grace-effiong/) [![Mail Badge](https://img.shields.io/badge/-rubylena-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:graceffiong@gmail.com)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Rubylena-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](
+https://www.linkedin.com/in/grace-effiong/) [![Mail Badge](https://img.shields.io/badge/-Rubylena-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:graceffiong@gmail.com)
 
 - 👯 Languages 
 ![HTML5](https://img.shields.io/badge/-HTML5-09203F?style=flat&logo=HTML5)

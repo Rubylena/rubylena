@@ -13,8 +13,10 @@ https://www.linkedin.com/in/grace-effiong/) [![Mail Badge](https://img.shields.i
 ![C](https://img.shields.io/badge/-C-09203F?style=flat&logo=C)
 ![Python](https://img.shields.io/badge/-Python-09203F?style=flat&logo=Python)
 
-- 🔭 Frameworks 
-![React](https://img.shields.io/badge/-React-09203F?style=flat&logo=React) 
+-🌱 Libraries
+![React](https://img.shields.io/badge/-React-09203F?style=flat&logo=React)
+
+- 🔭 Frameworks  
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-09203F?style=flat&logo=Bootstrap)
 
 - ⚡ Fun fact: You can also find data science related repositories within.

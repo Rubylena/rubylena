@@ -18,7 +18,7 @@ https://www.linkedin.com/in/grace-effiong/) [![Mail Badge](https://img.shields.i
 
 - 🔭 Frameworks  
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-09203F?style=flat&logo=Bootstrap)
-
+![Tailwind](https://img.shields.io/badge/-Tailwind-09203F?style=flat&logo=Tailwind)
 - ⚡ Fun fact: You can also find data science related repositories within.
 I know, I know. I only love learning
 

@@ -22,8 +22,8 @@ https://www.linkedin.com/in/grace-effiong/) [![Mail Badge](https://img.shields.i
 - ⚡ Fun fact: You can also find data science related repositories within.
 I know, I know. I only love learning
 
-- Hacktoberfest badges
-![@rubylena's Holopin board](https://holopin.io/@rubylena)
+- Hacktoberfest badges (click to view)
+[![@rubylena's Holopin board](https://holopin.me/rubylena)](https://holopin.io/@rubylena)
 <!--
 **Rubylena/rubylena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

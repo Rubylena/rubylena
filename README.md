@@ -3,7 +3,7 @@
 
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Rubylena-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](
-https://www.linkedin.com/in/grace-effiong/) [![Mail Badge](https://img.shields.io/badge/-Rubylena-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:graceffiong@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-Rubylena-c0392b?style=flat&labelColor=blue&logo=twitter&logoColor=white)](https://twitter.com/grace_ffiong)
+https://www.linkedin.com/in/grace-effiong/) [![Mail Badge](https://img.shields.io/badge/-Rubylena-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:graceffiong@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-Rubylena-blue?style=flat&labelColor=blue&logo=twitter&logoColor=white)](https://twitter.com/grace_ffiong)
 
 - 👯 Languages 
 ![HTML5](https://img.shields.io/badge/-HTML5-09203F?style=flat&logo=HTML5)
